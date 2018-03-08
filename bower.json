@@ -1,0 +1,17 @@
+{
+  "name": "npmtest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ivan <ivan555ivan555@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/JJIvan/npmTest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
